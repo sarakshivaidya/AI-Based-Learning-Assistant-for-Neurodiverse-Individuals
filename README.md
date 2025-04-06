@@ -6,7 +6,9 @@ Designed specifically for neurodiverse individuals (Autism, ADHD, Dyslexia).​
 
 Aims to tackle challenges like:​-
 Communication difficulties​
+
 Task and routine management​
+
 Learning and comprehension barriers​
 
 Offers key AI-driven features:-​
@@ -20,6 +22,9 @@ Offers key AI-driven features:-​
 
 Promotes:​-
 Digital inclusion and independence​
+
 Enhanced learning outcomes​
+
 Better routine management​
+
 Ideal for use in educational environments, therapy sessions, or at home.​
