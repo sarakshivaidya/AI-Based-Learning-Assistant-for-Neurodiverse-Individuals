@@ -1,6 +1,9 @@
 
 import streamlit as st
-from models import tts_model, stt_model, flowchart
+import tts_model
+import stt_model
+import flowchart
+
 
 st.title("AI Learning Assistant")
 
